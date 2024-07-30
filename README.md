@@ -16,14 +16,6 @@ introduce_yourself()
 current_focus()
 ```
 
-## Let's Connect!
-
-    📫 Email: sreechandh2204@gmail.com
-    
-    💼 LinkedIn: Sreechandh Devireddy
-    
-    🌐 Portfolio: sreechandh.com
-
 ## Fun Fact
 
 Besides coding, I love participating in community-driven sustainability projects 🌍.
