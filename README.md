@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Sreechandh22/Sreechandh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Sreechandh Devireddy
 
-Here are some ideas to get you started:
+```python
+def introduce_yourself():
+    print("Machine Learning Enthusiast 🤖, AI Explorer 🚀, and Code Connoisseur 💻")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+def current_focus():
+    print("🔭 Working on: AI for Social Good, ML Projects, and Fun with Data!")
+    print("🌱 Learning: Advanced AI techniques, Cloud Computing, and Big Data Analytics.")
+    print("👯 Collaborating on: Open-source projects, Innovative AI solutions.")
+    print("🔍 Looking for: Summer 2025 Internships!")
+
+introduce_yourself()
+current_focus()
+```
+
+## Let's Connect!
+
+    📫 Email: sreechandh2204@gmail.com
+    
+    💼 LinkedIn: Sreechandh Devireddy
+    
+    🌐 Portfolio: sreechandh.com
+
+## Fun Fact
+
+Besides coding, I love participating in community-driven sustainability projects 🌍.
+
+
