@@ -18,6 +18,8 @@ current_focus()
 
 ## Fun Fact
 
-Besides coding, I love participating in community-driven sustainability projects 🌍.
+When I'm not debugging code, I'm digging in the garden, nurturing my green thumb 🌱.
+
+
 
 
