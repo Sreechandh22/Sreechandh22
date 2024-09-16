@@ -48,6 +48,7 @@
 <p style="font-size: 1.1em; font-family: 'Courier New', monospace; color: #C5C6C7;">
   Developed an AI-powered <strong>DeepFake Detection</strong> model that identifies fake images with over <strong>80%</strong> accuracy, 
   leveraging <strong>MobileNetV2</strong> and CNN architectures for enhanced precision in distinguishing real vs. fake images.
+  Check it out <a href="https://deepdetect.streamlit.app/" style="color: #1DB954; text-decoration: none;" target="_blank"><strong>here</strong></a>!
 </p>
 
 <h3 style="color: #1DB954; font-family: 'Courier New', monospace;">🚀 Next Up:</h3>
