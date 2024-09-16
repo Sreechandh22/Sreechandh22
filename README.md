@@ -46,7 +46,8 @@
 <!-- About Me with Enhanced Styling -->
 <h3 style="color: #1DB954; font-family: 'Courier New', monospace;">🌟 Recent Project:</h3>
 <p style="font-size: 1.1em; font-family: 'Courier New', monospace; color: #C5C6C7;">
-  Led a team in developing an AI-driven model to assess <strong>colon cancer risk</strong>, improving accuracy by <strong>45%</strong>!
+  Developed an AI-powered <strong>DeepFake Detection</strong> model that identifies fake images with over <strong>80%</strong> accuracy, 
+  leveraging <strong>MobileNetV2</strong> and CNN architectures for enhanced precision in distinguishing real vs. fake images.
 </p>
 
 <h3 style="color: #1DB954; font-family: 'Courier New', monospace;">🚀 Next Up:</h3>
